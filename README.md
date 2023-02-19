@@ -13,7 +13,7 @@ See code
 
 In general, rush to the middle of map. 
 
-But the optimal_path() is too expensive, I have to use some very simple heuristic function rather than optimal_path(). 
+But the optimal_path() is too expensive, I have to use some very simple heuristic functions rather than optimal_path(). 
 
 
 # Time out
